@@ -1,0 +1,122 @@
+[
+  {
+    "shape": "oval",
+    "colour": "red"
+  },
+  {
+    "shape": "oval",
+    "colour": "blue"
+  },
+  {
+    "shape": "oval",
+    "colour": "green"
+  },
+  {
+    "shape": "oval",
+    "colour": "yellow"
+  },
+  {
+    "shape": "oval",
+    "colour": "pink"
+  },
+  {
+    "shape": "oval",
+    "colour": "grey"
+  },
+  {
+    "shape": "round",
+    "colour": "red"
+  },
+  {
+    "shape": "round",
+    "colour": "blue"
+  },
+  {
+    "shape": "round",
+    "colour": "green"
+  },
+  {
+    "shape": "round",
+    "colour": "yellow"
+  },
+  {
+    "shape": "round",
+    "colour": "pink"
+  },
+  {
+    "shape": "round",
+    "colour": "grey"
+  },
+  {
+    "shape": "triangle",
+    "colour": "red"
+  },
+  {
+    "shape": "triangle",
+    "colour": "blue"
+  },
+  {
+    "shape": "triangle",
+    "colour": "green"
+  },
+  {
+    "shape": "triangle",
+    "colour": "yellow"
+  },
+  {
+    "shape": "triangle",
+    "colour": "pink"
+  },
+  {
+    "shape": "triangle",
+    "colour": "grey"
+  },
+  {
+    "shape": "square",
+    "colour": "red"
+  },
+  {
+    "shape": "square",
+    "colour": "blue"
+  },
+  {
+    "shape": "square",
+    "colour": "green"
+  },
+  {
+    "shape": "square",
+    "colour": "yellow"
+  },
+  {
+    "shape": "square",
+    "colour": "pink"
+  },
+  {
+    "shape": "square",
+    "colour": "grey"
+  },
+  {
+    "shape": "rectangle",
+    "colour": "red"
+  },
+  {
+    "shape": "rectangle",
+    "colour": "blue"
+  },
+  {
+    "shape": "rectangle",
+    "colour": "green"
+  },
+  {
+    "shape": "rectangle",
+    "colour": "yellow"
+  },
+  {
+    "shape": "rectangle",
+    "colour": "pink"
+  },
+  {
+    "shape": "rectangle",
+    "colour": "grey"
+  }
+]
